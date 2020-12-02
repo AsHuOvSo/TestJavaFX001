@@ -1,2 +1,2 @@
 # TestJavaFX001
-I'm working on a sidescroller game
+I'm working on a clicker game
